@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahvanh&label=Profile%20views&color=0e75b6&style=flat" alt="noahvanh" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity** and **Computer Network**
 
 - ⚡ Fun fact **I'm three handshakes away from Joe Biden**
 
